@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Venkat, working as a test automation engineer/SDET with over 11 years of IT experience. 
+- 👋 Hi, I’m Venkat, a test automation engineer/SDET with over 11 years of IT experience. 
 Throughout my journey i have always been inspired by new tools and technologies. 
 - 👀 I’m interested in ... test automation, be it web, mobile or APIs. I have worked on all 3 types of automation projects, but mobile automation excites me the most.
 - 🌱 I’m currently learning ... native automation frameworks like XCUITest with Swift
