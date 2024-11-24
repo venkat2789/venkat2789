@@ -1,6 +1,6 @@
 ### 👨‍💻 About me:
-- 👋 Hi, I’m Venkat, a test automation engineer and SDET with over 12 years of experience. Throughout my journey I have always been inspired by new tools and technologies. 
-- 👀 I’m interested in test automation, whether it is web, mobile or APIs. I have worked on all 3 types of automation projects, but mobile automation excites me the most.
+- 👋 Hi, I’m Venkat, a test automation engineer and SDET with over 13 years of experience. Throughout my journey I have always been inspired by new tools and technologies. 
+- 👀 I’m interested in test automation, whether it is web, mobile or APIs. I have worked on all 3 types of automation projects, but mobile test automation excites me the most.
 - 🌱 I’m currently learning native mobile test automation frameworks like XCUITest with Swift and Espresso with Kotlin.
 - 💞️ I’m looking to collaborate on any topics related to test automation.
 - 📫 Connect with me @ [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/venkatachalapathy-sivaprakasam) 
@@ -16,7 +16,6 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/jenkins/jenkins-original.svg" title="Jenkins"  alt="Jenkins" width="35" height="35"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="Docker"  alt="Docker" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="35" height="35"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>
 </div>
